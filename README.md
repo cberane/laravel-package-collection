@@ -5,6 +5,10 @@ A solid summary of all packages can make it easier for everyone who is looking
 for a specific package, solving a special issue (api tokens, 2fa, roles/permissions,
 administration, etc.).
 
+## Other package summaries
+
+- [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
+
 ## Well known laravel developers
 
 The order of this list has no meaning, rating or whatsoever. I simply added the

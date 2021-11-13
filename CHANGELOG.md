@@ -9,3 +9,4 @@ The types of change are based on [Keep a Changelog](https://keepachangelog.com/e
 ## 2021-11-13
 ### Added
 - initial version of the summary
+- added Awesome Laravel
